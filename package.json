@@ -1,0 +1,19 @@
+{
+  "name": "01_express",
+  "version": "1.0.0",
+  "description": "A simple way to learn about the teas ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tea",
+    "express"
+  ],
+  "author": "Chitrita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
